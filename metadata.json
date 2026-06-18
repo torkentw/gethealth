@@ -1,0 +1,6 @@
+{
+  "name": "GET HEALTH",
+  "description": "健康科技直銷平台，結合尖端生物科技與天然成分，重新定義健康未來。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
